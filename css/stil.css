@@ -1,11 +1,11 @@
 th{text-align: left!important}
-
+table{table-layout: fixed}
 .responsive-blog-footer {
     background: #4a4a4a;
     padding: 3rem 3rem;
     color: white;
   }
-  
+  .is-active{overflow-x:auto;}
   @media screen and (max-width: 39.9375em) {
     .responsive-blog-footer h4 {
       font-size: 1.5rem;

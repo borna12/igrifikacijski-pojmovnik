@@ -52,3 +52,9 @@ table{table-layout: fixed}
   }
   
   footer{background: #146aa3;}  
+
+  @media screen and (max-width: 650px) {
+    table {
+      table-layout: initial;
+  }
+  }

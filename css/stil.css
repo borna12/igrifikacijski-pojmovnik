@@ -1,5 +1,5 @@
 th{text-align: left!important}
-table{table-layout: fixed}
+table{table-layout: fixed; word-wrap: break-word;}
 .responsive-blog-footer {
     background: #4a4a4a;
     padding: 3rem 3rem;

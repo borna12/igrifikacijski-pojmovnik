@@ -3,7 +3,7 @@ let opci =
 let igri =
   "https://docs.google.com/spreadsheets/d/e/2PACX-1vRaI_0vQEE-fU0YSeqPP7MbeO50WVpCq3eVlJTIYT38wJmqdBYKYMaShXrQ5_kJp9yB05RXjTIg9P-M/pub?gid=1511790161&single=true&output=csv";
 let tipovi =
-  "https://docs.google.com/spreadsheets/d/e/2PACX-1vRaI_0vQEE-fU0YSeqPP7MbeO50WVpCq3eVlJTIYT38wJmqdBYKYMaShXrQ5_kJp9yB05RXjTIg9P-M/pub?output=csv";
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vRaI_0vQEE-fU0YSeqPP7MbeO50WVpCq3eVlJTIYT38wJmqdBYKYMaShXrQ5_kJp9yB05RXjTIg9P-M/pub?gid=1275070507&single=true&output=csv";
 
 window.addEventListener("DOMContentLoaded", init);
 function init() {
